@@ -1,0 +1,3 @@
+- Make the darn thing
+- Add a plot to each science section
+-Update CV
